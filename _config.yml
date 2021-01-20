@@ -1,7 +1,7 @@
 # Site
 name: "I'm Oceanic"
 title: "I'm Oceanic"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Exploration, Adventure, Discovery and building the Technology to make it happen!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
@@ -23,7 +23,8 @@ authors:
     email: b@oceanic.im
     web: https://oceanic.im/
     twitter: https://twitter.com/imoceanic
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    instagram: https://twitter.com/imoceanic
+    description: "A technologist with a love of exploration, adventure and everything to do with life on the water."
   
 # Plugins
 plugins:
